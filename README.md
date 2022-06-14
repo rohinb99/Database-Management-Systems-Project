@@ -11,6 +11,9 @@ reviews in College Park, MD.
 restaurant ratings and customers
 2) To collect, sort, and analyze the comment focuses of online restaurant reviews in order to assist
 database users in ordering from College Park, MD owned restaurants based on different dimensions
+
+
+
 Mission objectives:
 Our mission objectives were designed with our end-users in mind. With each of our objectives, we
 seek to answer key user questions and provide some of the most important results that our database
